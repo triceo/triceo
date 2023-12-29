@@ -13,7 +13,7 @@ You might remember OptaPlanner, a metaheuristics constraints-based solver, start
 Geoffrey De Smet, myself and many of the original OptaPlanner team are now continuing the project as [Timefold Solver](https://github.com/TimefoldAI/timefold-solver). 
 Why OptaPlanner continues as Timefold can be read in our fork message on [our blog](https://timefold.ai/blog/2023/optaplanner-fork).
 
-Our [Timefold Solver repo](https://github.com/TimefoldAI/timefold-solver) and [Quickstarts](https://github.com/TimefoldAI/timefold-quickstarts) repos are here to help developers like you solve intricate planning puzzles. 
+Our [Timefold Solver repo](https://github.com/TimefoldAI/timefold-solver) and [Quickstarts repo](https://github.com/TimefoldAI/timefold-quickstarts) are here to help developers like you solve intricate planning puzzles. 
 From route optimization to shift scheduling, we're dedicated to empowering you to build smarter, more optimized software.
 
 🌟 Thanks in advance for starring the [Timefold Solver repo](https://github.com/TimefoldAI/timefold-solver).
