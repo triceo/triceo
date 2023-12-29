@@ -3,7 +3,7 @@
 I work at [Timefold](https://timefold.ai) as a lead engineer for our constraint solver.
 Some of my other profiles:
 
-- [Lukáš Petrovický on LinkedIn](https://www.linkedin.com/feed/)
+- [Lukáš Petrovický on LinkedIn](https://www.linkedin.com/in/petrovicky/)
 - [Lukáš Petrovický on Mastodon](https://jvm.social/@petrovicky)
 - [Lukáš Petrovický on StackOverflow](https://stackoverflow.com/users/6794063/luk%c3%a1%c5%a1-petrovick%c3%bd)
 
